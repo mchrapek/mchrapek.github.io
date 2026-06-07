@@ -1,0 +1,48 @@
+- title: "CRUD: The Questions You’re Not Asking (But Should)"
+  date: 2025-08-21
+  conference_name: "JDD"
+  conference_url: "https://2025.jdd.org.pl/"
+- title: "TypeSecrets"
+  date: 2024-08-10
+  conference_name: "4developers Katowice"
+  conference_url: "https://4developers.org.pl/katowice-2024/"
+- title: "Architektura ewolucyjna, czyli jak nie stracić zmysłów podczas wdrażania zmian"
+  date: 2024-08-10
+  conference_name: "4developers Katowice"
+  conference_url: "https://4developers.org.pl/katowice-2024/"
+- title: "Lightning Talk: TypeSecrets"
+  date: 2025-08-01
+  conference_name: "merge IT"
+  conference_url: "http://mergeit.pl/meetup/3/"
+- title: "Working with legacy code – how to sleep soundly after a release?"
+  date: 2023-11-23
+  conference_name: "Deploy on Friday"
+  conference_url: "https://crossweb.pl/wydarzenia/deploy-on-friday-1-onwelo-meetup-katowice/"
+- title: "Multitenancy from scratch"
+  date: 2023-05-10
+  video_link: "https://www.youtube.com/watch?v=eFwzVRBP2p0"
+  conference_name: "4developers Katowice"
+  conference_url: "https://4developers.org.pl/katowice-2023/"
+- title: "Praca z zastanym kodem – jak spać spokojnie po releasie?"
+  date: 2023-05-10
+  conference_name: "4developers Katowice"
+  conference_url: "https://4developers.org.pl/katowice-2023/"
+- title: "Multitenancy from scratch"
+  date: 2023-06-21
+  video_link: "https://www.youtube.com/watch?v=5t02XoWf_Bw"
+  conference_name: "Confitura"
+  conference_url: "https://2023.confitura.pl/"
+- title: "Praca z kodem zastanym - jak spać spokojnie po releasie na produkcje?"
+  date: 2023-04-18
+  video_link: "https://www.youtube.com/watch?v=D_aQ4XU0OZA"
+  conference_name: "4developers"
+  conference_url: "https://4developers.org.pl/4developers-2023/"
+- title: "Hello multitenancy world!"
+  date: 2022-04-04
+  video_link: "https://www.youtube.com/watch?v=_rpXME7XWyQ"
+  conference_name: "4developers"
+  conference_url: "https://4developers.org.pl/4developers-2022-online/"
+- title: "Working with 'legacy code'. Crazy programmer's diary."
+  date: 2019-12-04
+  conference_name: "WeBB MeetUp"
+  conference_url: "https://www.facebook.com/webbmeetupcommunity/"
